@@ -300,8 +300,8 @@ void draw3D()
   drawRoad();
   drawCars();
   drawRiverBed();
-  drawRiver();
   drawLogs();
+  drawRiver();
 }
 
 
